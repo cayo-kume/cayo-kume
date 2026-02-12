@@ -1,8 +1,8 @@
 <h1>Oi eu sou o Cayo, e esse é o meu GitHub 👺</h1>
 <div align="float-left">
   <a href="https://github.com/CayoKume">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=cayokume&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayokume&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=cayo-kume&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cayo-kume&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <br>
